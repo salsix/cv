@@ -1,0 +1,13 @@
+%%[ ProductName: Distiller ]%%
+Lato-Regular not found, using Courier.
+JetBrainsMono-Regular not found, using Courier.
+%%[ Error: invalidfont; OffendingCommand: xshow ]%%
+
+Stack:
+[160 160 160 160 160 160 160 160 160 160 160 0]
+(	
+)
+
+
+%%[ Flushing: rest of job (to end-of-file) will be ignored ]%%
+%%[ Warning: PostScript error. No PDF file produced. ] %%
